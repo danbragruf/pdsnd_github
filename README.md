@@ -4,7 +4,7 @@
 Date created _2025-08-15_
 
 ### Project Title
-Bikeshare Project
+Bikeshare Project - An interactive experience
 
 ### Description
 The goal of the **Bikeshare project** is to use Python to explore data related to bike share systems. It includes one Python file and one or more .csv data files.
